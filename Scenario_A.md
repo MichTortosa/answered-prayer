@@ -1,5 +1,6 @@
 # Scenario A
-## Hi, John!
+
+Hi, John!
 
 Thank you for reaching out to us. We acknowledge your concern and we are happy to know about your MIT standings.
 
