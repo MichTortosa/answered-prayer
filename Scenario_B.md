@@ -9,7 +9,7 @@ We have had classes in Haiti and Taiwan and might be expanding to other countrie
 We look forward to having partner organization and sponsors in your country. We may never know, you might be the pioneer student and part of the pioneer class in your country!
 
 We know that your Flix app will be of good purpose in the future and might be one of the best apps in your future classes.
-These guidelines of CodePath.org for [application process](https://applications.codepath.org/login?redirect_url=https%3A%2F%2Fapplications.codepath.org%2Fdashboard)and [eligibility requirement might](https://courses.codepath.org/sessions#heading-requirements) be of big help again soon for you.
+These guidelines of CodePath.org for [application process](https://applications.codepath.org/login?redirect_url=https%3A%2F%2Fapplications.codepath.org%2Fdashboard) and [eligibility requirement might](https://courses.codepath.org/sessions#heading-requirements) be of big help again soon for you.
 
 We look forward to seeing you in our classes!
 
