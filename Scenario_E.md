@@ -1,12 +1,13 @@
-# Scenarion E
+# Scenario E
 
 Hi, Jake!
-Thank you for reaching out to us. We are happy to walk you through our process and your class details.
-[Intro to Cybersecurity](https://courses.codepath.org/snippets/cyb101/syllabus) class meets every Tuesdays at 5PM – 7PM (Section 1), Thursdays at 3PM-5PM (Section 2), or Fridays at 10AM – 12PM (Section 3) for 10 weeks duration.
+
+<p>Thank you for reaching out to us!</p>
+We are happy to walk you through our process and your class details [Intro to Cybersecurity](https://www.codepath.org/courses) class meets every Tuesdays at 5PM – 7PM (Section 1), Thursdays at 3PM-5PM (Section 2), or Fridays at 10AM – 12PM (Section 3) for 10 weeks duration.
 
 During application for Cybersecurity course, students are required to complete a [pre-work](https://courses.codepath.org/snippets/cyb101/prework) project. These will guide you for the details of how and where to submit:
 - [x] [Prework Template](https://docs.google.com/document/d/1Y2LcW4ZLWqM4yf3fdXmG-3WEuc3qBbJX3No3T0oGMpU/copy) submission
-- [ ] Follow steps found on this [link] ()
+- [ ] Follow steps found on this [link](https://courses.codepath.org/snippets/cybersecurity_university/prework).
 - [ ] Answer the questions
   
 - Question #1
