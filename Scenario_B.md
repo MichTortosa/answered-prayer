@@ -1,4 +1,5 @@
-# Scenarion B
+# Scenario B
+
 ## Hi, Jane!
 
 Thank you so much for your interest in application, and for your full effort and time in going through the process!
