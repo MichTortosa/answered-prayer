@@ -11,7 +11,6 @@ We wanted our course be available to as much student as possible. With this, we 
 We are rooting for you to land on your internship program compatible with your skillset.
 We hope to see you in the future!
 
-
 All the best,
 
 CodePath.org
