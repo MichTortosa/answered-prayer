@@ -5,7 +5,7 @@ Hi, Jake!
 <p>Thank you for reaching out to us!</p>
 We are happy to walk you through our process and your class details. <strong>Intro to Cybersecurity</strong> class meets every <mark>Tuesdays</mark> at 5PM – 7PM (Section 1), <mark>Thursdays</mark> at 3PM-5PM (Section 2), or <mark>Fridays</mark> at 10AM – 12PM (Section 3) for <strong>10 weeks duration</strong>.
 
-During application for Cybersecurity course, students are required to complete a [pre-work](https://courses.codepath.org/snippets/cyb101/prework) project. These will guide you for the details of how and where to submit:
+During application for Cybersecurity course, students are required to complete a [pre-work](https://courses.codepath.org/snippets/cyb101/prework) project. Once you have submitted your pre-work template, these will guide you for the details of how and where to submit:
 
 - [x] [Prework Template](https://docs.google.com/document/d/1Y2LcW4ZLWqM4yf3fdXmG-3WEuc3qBbJX3No3T0oGMpU/copy) submission
 - [ ] Follow steps found on this [link](https://courses.codepath.org/snippets/cybersecurity_university/prework).
